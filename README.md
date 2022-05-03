@@ -28,8 +28,4 @@ connect with me on :-
 [![freelancer](https://img.shields.io/badge/freelancer-1DA1F2?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.in/u/evadevlopers)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanani-kirti-5210b863/)
 [![skype](https://img.shields.io/badge/skype-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( kirti.kanani2 )
-  <a href="mailto:kritikanani9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
-
-
-
+ 
