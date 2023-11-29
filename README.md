@@ -47,9 +47,7 @@
     </a> 
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
         <img src="https://sofkpvtltd.com/iconeimages/CodeIgniter.svg" alt="codeigniter" width="40" height="40"/> 
-    </a> 
-  
-
+    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
@@ -61,8 +59,7 @@
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-     </a> 
-   
+     </a>    
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
     </a> 
@@ -77,8 +74,7 @@
     </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-    
+    </a>    
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     </a> 
