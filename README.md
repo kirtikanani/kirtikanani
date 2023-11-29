@@ -41,9 +41,6 @@
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://sofkpvtltd.com/iconeimages/html5.svg" alt="laravel" width="40" height="40"/>
 </a>
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://sofkpvtltd.com/iconeimages/html5.svg" alt="laravel" width="40" height="40"/>
-</a>
 <a href="https://en.wikipedia.org/wiki/IOS" target="_blank" rel="noreferrer"> 
     <img src="https://sofkpvtltd.com/iconeimages/IOS.svg" alt="android" width="40" height="40"/>
  </a> 
