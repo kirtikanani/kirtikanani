@@ -57,17 +57,14 @@
     <img src="https://sofkpvtltd.com/iconeimages/Postman.svg" alt="android" width="40" height="40"/>
  </a> 
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src=" https://sofkpvtltd.com/iconeimages/Vuejs.svg" alt="android" width="40" height="40"/>
+    <img src="https://sofkpvtltd.com/iconeimages/Vuejs.svg" alt="android" width="40" height="40"/>
  </a> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
     </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-    </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://sofkpvtltd.com/iconeimages/boostrap.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
-</a> 
 <a href="https://www.clickfunnels.com/" target="_blank" rel="noreferrer"> 
     <img src="https://sofkpvtltd.com/iconeimages/clickfun.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
@@ -77,9 +74,6 @@
 <a href="https://www.adobe.com/products/photoshop.html?" target="_blank" rel="noreferrer">
     <img src="https://sofkpvtltd.com/iconeimages/php.svg" alt="xd" width="40" height="40"/> 
 </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
       <img src="https://sofkpvtltd.com/iconeimages/figam.svg" alt="figma" width="40" height="40"/>
     </a> 
