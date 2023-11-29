@@ -35,8 +35,7 @@
 <a href="https://www.shopify.com/in" target="_blank" rel="noreferrer"> 
     <img src="https://sofkpvtltd.com/iconeimages/Shopify.svg" alt="laravel" width="40" height="40"/>
 </a>
-
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://sofkpvtltd.com/iconeimages/android.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
